@@ -1,2 +1,2 @@
-# cloudtype
-cloudtype 한글설명
+# CloudType
+CloudType 한글설명
